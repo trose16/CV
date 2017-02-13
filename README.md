@@ -24,8 +24,10 @@
 ## Projects
 #### Featured Project
 **AUGMENTED ART APP**
-*Use your smartphone camera to make art pop right off the canvas*
-[![AUGMENTED ART APP ](public/aa_image.png)](https://vimeo.com/203326904)
+*—Use your smartphone camera to make art pop right off the canvas*
+
+<a href="https://vimeo.com/203326904" target= "blank"><img src="public/aa_image.png"
+alt="Augmented Art App" width="300"/></a>
 >| TITLE                       | DESCRIPTION                                                                   | TECH                     |  TESTING                           |
 | -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
 | [Augmented Art App](https://github.com/trose16/augmented_art_app)      | Use your smartphone camera to make art pop right off the canvas               | Unity, Vuforia, C#, Blender 3D, Android Studio             | NUnit C#     |

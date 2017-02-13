@@ -1,7 +1,7 @@
 ## Teako Rose Warfield-Graham
 [TECHNOLOGY](#projects) | <a href="https://www.behance.net/teako"/>PORTFOLIO</a> | <a href="https://www.linkedin.com/in/teakowg?trk=hp-identity-name"/>PROFILE</a>  | <a href="http://www.imdb.com/name/nm7983071/?ref_=nv_sr_1"/>FILM CREDITS</a>
 
-> *A strong woman, an adventurer, a mother, a traveller, an appreciator of humanities, a lover of knowledge. I started a career in design 10+ years ago and I’ve been creating every since. I hit heights in Creative Direction and Branding, but determined a career change after managing tech projects from the frontend and realizing it’s an outlet with better job stability. There is also a shift happening that is encouraging to women. I returned to London to study software development as it’s the first place I came to study art & felt inspired. Object oriented design feels like a natural progression and a new set of tools enabling broader opportunities.*
+> *A strong woman, an adventurer, a mother, a traveller, an appreciator of humanities, a lover of knowledge. I started a career in design 10+ years ago and I’ve been creating every since. My career heights are in Creative Direction and Branding, but I decided on a new direction after managing tech projects from the frontend and realizing it’s an outlet with better job stability. There is also a shift happening that is encouraging to women. I returned to London to study software development as it’s the first place I came to study art & felt inspired. Object oriented design feels like a natural progression and a new set of tools enabling me broader opportunities.*
 
 #### Featured
 **[AUGMENTED ART APP](https://github.com/trose16/augmented_art_app)**
@@ -31,8 +31,8 @@ alt="Augmented Art App" width="400"/></a>
 ## Projects
 >| TITLE                       | DESCRIPTION                                                                   | TECH                     |  TESTING                           |
 | -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
-| [Makers BNB](https://github.com/trose16/makersbnb)      | A rebuild of AirBnb website               | Ruby, HTML, Sinatra, Datamapper, postgreSQL              | Rspec, Capybara     |
-| [Choose Your Adventure](https://github.com/trose16/choose-your-adventure)       | Take an unique adventure around London. Your decisions create your adventure.                                         | Ruby, Postgres SQL           | Rspec, Capybara                    |
+| [Makers BNB](https://github.com/trose16/makersbnb)      | A rebuild of AirBnb website               | Ruby, HTML/CSS, Sinatra, Datamapper, postgreSQL              | Rspec, Capybara     |
+| [Choose Your Adventure](https://github.com/trose16/choose-your-adventure)       | Take an unique adventure around London. Your decisions create your adventure.                                         | Ruby, Postgres SQL, HTML/CSS           | Rspec, Capybara                    |
 | [Bowling Challenge](https://github.com/trose16/bowling-challenge)            | Bowl against the computer or use to score your offline game  | Javascript, HTML         | Jasmine       |   
 
 ## Experience

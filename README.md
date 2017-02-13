@@ -1,7 +1,7 @@
 ## Teako Rose Warfield-Graham
 [TECHNOLOGY](#projects) | <a href="https://www.behance.net/teako"/>PORTFOLIO</a> | <a href="https://www.linkedin.com/in/teakowg?trk=hp-identity-name"/>PROFILE</a>  | <a href="http://www.imdb.com/name/nm7983071/?ref_=nv_sr_1"/>FILM CREDITS</a>
 
-> *A strong woman, an adventurer, a mother, a traveller, an appreciator of humanities, a lover of knowledge. I started a career in design 10+ years ago and I’ve been creating every since. I reached heights in creative direction and branding, but determined a career change after managing tech projects from the front end and realizing it’s an outlet with better job stability. There is also a shift happening that is encouraging to women. I returned to London to study software development as it’s the first place I came to study art & felt inspired. Object oriented design feels like a natural progression and a new set of tools enabling broader opportunities.*
+> *A strong woman, an adventurer, a mother, a traveller, an appreciator of humanities, a lover of knowledge. I started a career in design 10+ years ago and I’ve been creating every since. I hit heights in Creative Direction and Branding, but determined a career change after managing tech projects from the frontend and realizing it’s an outlet with better job stability. There is also a shift happening that is encouraging to women. I returned to London to study software development as it’s the first place I came to study art & felt inspired. Object oriented design feels like a natural progression and a new set of tools enabling broader opportunities.*
 
 #### Featured
 **[AUGMENTED ART APP](https://github.com/trose16/augmented_art_app)**

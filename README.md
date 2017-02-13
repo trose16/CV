@@ -12,7 +12,7 @@
 alt="Augmented Art App" width="400"/></a>
 
 ## My Skills
-> #### See [Experience](#work experience)
+> #### See [Experience](#experience)
 - Technology Management
 - Creative Direction & Branding
 - Leadership
@@ -35,44 +35,44 @@ alt="Augmented Art App" width="400"/></a>
 | [Choose Your Adventure](https://github.com/trose16/choose-your-adventure)       | Take an unique adventure around London. Your decisions create your adventure.                                         | Ruby, Postgres SQL           | Rspec, Capybara                    |
 | [Bowling Challenge](https://github.com/trose16/bowling-challenge)            | Bowl against the computer or use to score your offline game  | Javascript, HTML         | Jasmine       |   
 
-## Work Experience
+## Experience
 
 > **Flowing Freeride Pro Snowboarding** | (10.2011–3.2016) | *Business Launch*
 - Launched membership website offering three course levels of professional snowboard training
 - Business modeling, UI/X, videography, branding/copywriting, project management of remote developers
-___
+***
 
 > **First National Bank** | (03.2013–01.2015) | *Vice President of Marketing*
 - Headed brand strategy, design, copywriting, UI/X
 - Collaborated with CEO and IT department on apps, banking tools, style guides and overall marketing management
-___
+***
 
 > **Mod180 Agency** | (10.2011–3.2016) | *Contract Creative Director*
 - Produced numerous freelance contract projects for Utah government & clients—branding, copywriting, videography
-___
+***
 
 > **Utah First Credit Union** |  (06.2007–02.2013) | *Head Graphic Designer*
 - Developed art for campaigns from concept to fulfillment
 - Produced brand style guide & trained employees to adhere
 - Earned 3 CUNA National Marketing Awards in San Diego, CA campaigns
-___
+***
 
 ## Education
 
 > **University of Utah** –Graduated, 2011
 - Mass Communications, Ba
 - Emphasis: Public Relations/Art Technology
-___
+***
 > **Art In Europe** –Study Abroad University of Utah, 2005
 - London, Vienna, Prague Fine Art Printmaking
-___
+***
 > **Salt Lake Community College** –Graduated, 2006
 - Visual Art &  Design, AAS
-___
+***
 > **University of Washington** —Intensives, 2006
 - AIGA/INCOGRADA International Design Intensive
-___
+***
 > **Languages** —BA Requirement University of Utah
 - Proficient speaking & grammatical written French
 - Intensives, Montréal Canada 2012
-___
+***

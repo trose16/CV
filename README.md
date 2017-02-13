@@ -12,14 +12,14 @@
 alt="Augmented Art App" width="400"/></a>
 
 ## My Skills
-
+> #### See Experience
 - Technology Management
 - Creative Direction & Branding
 - Leadership
 - Communication
 - Videography
 
-#### Makers Academy February, 2017
+> #### Makers Academy
 - Agile Methodology
 - Software Craftsmanship (full-stack)
 - Object Oriented Design
@@ -37,19 +37,19 @@ alt="Augmented Art App" width="400"/></a>
 
 ## Work Experience
 
-**Flowing Freeride Pro Snowboarding Series**
+> **Flowing Freeride Pro Snowboarding Series**
 - Launched membership website offering three course levels of professional snowboard training
 - Business modeling, UI/X, videography, branding/copywriting, project management of remote developers
 
-**First National Bank** (03.2013–01.2015)   
+> **First National Bank** (03.2013–01.2015)   
 *Vice President of Marketing*
 - Headed brand strategy, design, copywriting, UI/X
 - Collaborated with CEO and IT department on apps, banking tools, style guides and overall marketing management
 
-**Mod180 Creative Service Agency** (10.2011–3.2016)   
+> **Mod180 Creative Service Agency** (10.2011–3.2016)   
 - Held long-term clients and government contracts for branding, copywriting, videography
 
-**Utah First Credit Union** (06.2007–02.2013)
+> **Utah First Credit Union** (06.2007–02.2013)
 *Head Graphic Designer*
 - Developed art for campaigns from concept to fulfillment
 - Produced brand style guide and trained employees to adhere
@@ -57,19 +57,19 @@ alt="Augmented Art App" width="400"/></a>
 
 ## Education
 
-#### University of Utah, 2011
+> #### University of Utah, 2011
 - Mass Communications BA
 - Emphasis: Public Relations/Art Technology
 
-#### Art In Europe, 2005
+> #### Art In Europe, 2005
 - London, Vienna, Prague Fine Art Printmaking
 
-#### Salt Lake Community College, 2006
+> #### Salt Lake Community College, 2006
 - Visual Art &  Design AAS
 
-#### University of Washington, 2006
+> #### University of Washington, 2006
 - AIGA/INCOGRADA International Design Intensive
 
-#### Languages
+> #### Languages
 - Proficient French
 - Intensives, Montréal Canada 2012

@@ -22,15 +22,16 @@
 - Testing (Unit/Feature) Rspec, Jasmine, Mocha, Capybara, Writing w/o Library
 
 ## Projects
-#### Featured Project
+#### Featured
 **AUGMENTED ART APP**
-*—Use your smartphone camera to make art pop right off the canvas*
+*—Use your smartphone camera to make art pop right off the canvas!*
+*TECHNOLOGIES: Unity, Vuforia, C#, Blender 3D, Android Studio, NUnit Testing*
 
 <a href="https://vimeo.com/203326904" target= "blank"><img src="public/aa_image.png"
 alt="Augmented Art App" width="300"/></a>
 >| TITLE                       | DESCRIPTION                                                                   | TECH                     |  TESTING                           |
 | -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
-| [Augmented Art App](https://github.com/trose16/augmented_art_app)      | Use your smartphone camera to make art pop right off the canvas               | Unity, Vuforia, C#, Blender 3D, Android Studio             | NUnit C#     |
+| [Makers BNB](https://github.com/trose16/makersbnb)      | A rebuild of AirBnb website               | Ruby, HTML, Sinatra, Datamapper, postgreSQL              | Rspec, Capybara     |
 | [Choose Your Adventure](https://github.com/trose16/choose-your-adventure)       | Take an unique adventure around London. Your decisions create your adventure.                                         | Ruby, Postgres SQL           | Rspec, Capybara                    |
 | [Bowling Challenge](https://github.com/trose16/bowling-challenge)            | Bowl against the computer or use to score your offline game  | Javascript, HTML         | Jasmine       |   
 

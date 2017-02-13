@@ -40,39 +40,42 @@ alt="Augmented Art App" width="400"/></a>
 > **Flowing Freeride Pro Snowboarding** | (10.2011–3.2016) | *Business Launch*
 - Launched membership website offering three course levels of professional snowboard training
 - Business modeling, UI/X, videography, branding/copywriting, project management of remote developers
-***
+
 
 > **First National Bank** | (03.2013–01.2015) | *Vice President of Marketing*
 - Headed brand strategy, design, copywriting, UI/X
 - Collaborated with CEO and IT department on apps, banking tools, style guides and overall marketing management
-***
+
 
 > **Mod180 Agency** | (10.2011–3.2016) | *Contract Creative Director*
 - Produced numerous freelance contract projects for Utah government & clients—branding, copywriting, videography
-***
+
 
 > **Utah First Credit Union** |  (06.2007–02.2013) | *Head Graphic Designer*
 - Developed art for campaigns from concept to fulfillment
 - Produced brand style guide & trained employees to adhere
 - Earned 3 CUNA National Marketing Awards in San Diego, CA campaigns
-***
+
 
 ## Education
 
 > **University of Utah** –Graduated, 2011
 - Mass Communications, Ba
 - Emphasis: Public Relations/Art Technology
-***
+
+
 > **Art In Europe** –Study Abroad University of Utah, 2005
 - London, Vienna, Prague Fine Art Printmaking
-***
+
+
 > **Salt Lake Community College** –Graduated, 2006
 - Visual Art &  Design, AAS
-***
+
+
 > **University of Washington** —Intensives, 2006
 - AIGA/INCOGRADA International Design Intensive
-***
+
+
 > **Languages** —BA Requirement University of Utah
 - Proficient speaking & grammatical written French
 - Intensives, Montréal Canada 2012
-***

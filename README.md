@@ -3,6 +3,13 @@
 
 > *A strong woman, an adventurer, a mother, a traveller, an appreciator of humanities, a lover of knowledge. I started a career in design 10+ years ago and I’ve been creating every since. I reached heights in creative direction and branding, but determined a career change after managing tech projects from the front end and realizing it’s an outlet with better job stability. There is also a shift happening that is encouraging to women. I returned to London to study software development as it’s the first place I came to study art & felt inspired. Object oriented design feels like a natural progression and a new set of tools enabling broader opportunities.*
 
+#### Featured
+**AUGMENTED ART APP**
+*—Use your smartphone camera to make art pop right off the canvas!*
+*TECHNOLOGIES: Unity, Vuforia, C#, Blender 3D, Android Studio, NUnit Testing*
+
+<a href="https://vimeo.com/203326904" target= "blank"><img src="public/aa_image.png"
+alt="Augmented Art App" width="300"/></a>
 
 ## My Skills
 
@@ -22,13 +29,6 @@
 - Testing (Unit/Feature) Rspec, Jasmine, Mocha, Capybara, Writing w/o Library
 
 ## Projects
-#### Featured
-**AUGMENTED ART APP**
-*—Use your smartphone camera to make art pop right off the canvas!*
-*TECHNOLOGIES: Unity, Vuforia, C#, Blender 3D, Android Studio, NUnit Testing*
-
-<a href="https://vimeo.com/203326904" target= "blank"><img src="public/aa_image.png"
-alt="Augmented Art App" width="300"/></a>
 >| TITLE                       | DESCRIPTION                                                                   | TECH                     |  TESTING                           |
 | -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
 | [Makers BNB](https://github.com/trose16/makersbnb)      | A rebuild of AirBnb website               | Ruby, HTML, Sinatra, Datamapper, postgreSQL              | Rspec, Capybara     |

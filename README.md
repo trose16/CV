@@ -59,23 +59,23 @@ alt="Augmented Art App" width="400"/></a>
 
 ## Education
 
-> **University of Utah** –Graduated, 2011
+> **University of Utah** | Graduated, 2011
 - Mass Communications, Ba
 - Emphasis: Public Relations/Art Technology
 
 
-> **Art In Europe** –Study Abroad University of Utah, 2005
+> **Art In Europe** | Study Abroad University of Utah, 2005
 - London, Vienna, Prague Fine Art Printmaking
 
 
-> **Salt Lake Community College** –Graduated, 2006
+> **Salt Lake Community College** | Graduated, 2006
 - Visual Art &  Design, AAS
 
 
-> **University of Washington** —Intensives, 2006
+> **University of Washington** | Intensives, 2006
 - AIGA/INCOGRADA International Design Intensive
 
 
-> **Languages** —BA Requirement University of Utah
+> **Languages** | BA Requirement University of Utah
 - Proficient speaking & grammatical written French
 - Intensives, Montréal Canada 2012

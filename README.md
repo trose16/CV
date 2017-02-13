@@ -1,5 +1,5 @@
 ## Teako Rose Warfield-Graham
-[PROJECTS](#projects) | <a href="https://www.behance.net/teako"/>PORTFOLIO</a> | <a href="https://www.linkedin.com/in/teakowg?trk=hp-identity-name"/>PROFILE</a>  | <a href="http://www.imdb.com/name/nm7983071/?ref_=nv_sr_1"/>FILM CREDITS</a>
+<a style="color:red;margin-right:20px;" href="#projects"/>*PROJECTS*</a><a style="color:red;margin-right:20px;" href="https://www.behance.net/teako"/>*PORTFOLIO*</a><a style="color:red;margin-right:20px;" href="https://www.linkedin.com/in/teakowg?trk=hp-identity-name"/>*PROFILE*</a><a style="color:red;margin-right:20px;" href="http://www.imdb.com/name/nm7983071/?ref_=nv_sr_1"/>*FILM CREDITS*</a>
 
 > *A strong woman, an adventurer, a mother, a traveller, an appreciator of humanities, a lover of knowledge. I started a career in design 10+ years ago and I’ve been creating every since. I reached heights in creative direction and branding, but determined a career change after managing tech projects from the front end and realizing it’s an outlet with better job stability. There is also a shift happening that is encouraging to women. I returned to London to study software development as it’s the first place I came to study art & felt inspired. Object oriented design feels like a natural progression and a new set of tools enabling broader opportunities.*
 
@@ -9,7 +9,7 @@
 *TECHNOLOGIES: Unity, Vuforia, C#, Blender 3D, Android Studio, NUnit Testing*
 
 <a href="https://vimeo.com/203326904" target= "blank"><img src="public/aa_image.png"
-alt="Augmented Art App" width="300"/></a>
+alt="Augmented Art App" width="400"/></a>
 
 ## My Skills
 
